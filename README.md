@@ -1,3 +1,4 @@
+#Submitted on 29 January 2016
 #Fractal Growth Using the Diffusion Limited Aggregation Model
 
 The submitted program represents a fractal growth model using the idea of Diffusion Limited Aggregation.
